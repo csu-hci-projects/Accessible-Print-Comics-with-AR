@@ -94,5 +94,7 @@
 	<center>
 		<a href="index.php" alt="home">Back</a>
 	</center>
+	<br>
+	<br>
 	
 </body>
