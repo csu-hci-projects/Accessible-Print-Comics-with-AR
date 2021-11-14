@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	background-color: #9b644b;
+	color: #fff;
+	padding-top: 1em;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+
+a {
+	color: #fff;
+}
+
+img {
+    max-width: 90%;
+    height: auto;
+}
+
+footer {
+	position: fixed;
+	color: #fff;
+}
